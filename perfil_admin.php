@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-
+﻿<!DOCTYPE html>
 <html lang="en" class="no-js">
 	<head>
 	<title>Administrador</title>
